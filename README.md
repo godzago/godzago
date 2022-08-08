@@ -1,6 +1,6 @@
 
 ### Hi there I'm Ulaş👋
-I'm Ulaş Demirdöven , a 22-year old  enthusiast who does Game development. .<br>
+I'm Arif Ulaş Demirdöven , a 22-year old  enthusiast who does Game development.<br>
 
 ## 📫 How to reach me: 
 
