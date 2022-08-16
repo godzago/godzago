@@ -8,8 +8,7 @@ I'm Arif Ulaş Demirdöven , a 22-year old  enthusiast who does Game development
 </p>
 
 - 🌱 I’m currently learning C# and C++
-- 
-<h3 align="left">Connect with me:</h3>
+ 
 <p align="left">
 <a href="https://twitter.com/godzago" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="godzago" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ula%c5%9fdemird%c3%b6ven/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ula%c5%9fdemird%c3%b6ven/" height="30" width="40" /></a>
