@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=godzago" alt="godzago" /></a> </p>
 
-- 🌱 I’m currently learning **C# and C++**
+- 🌱 I’m currently learning **C# and C++** & Swift
 
 - 📫 How to reach me **demirdovenulas@gmail.com**
 
