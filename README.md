@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ulaş Demirdöven</h1>
-<h3 align="center">23-year old enthusiast who does Game development.</h3>
+<h3 align="center">24 year old enthusiast who does Game development.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=godzago" alt="godzago" /></a> </p>
 
