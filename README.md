@@ -31,5 +31,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=godzago&" alt="godzago" /></p>
 
+
+https://github.com/godzago/godzago/blob/output/github-contribution-grid-snake.gif
+
 ![snake gif](https://github.com/godzago/godzago/blob/output/github-contribution-grid-snake.svg)
 
