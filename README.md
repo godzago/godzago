@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ulaş Demirdöven</h1>
-<h3 align="center">25 year old enthusiast who does Mobile Deeloper / Part time Game Developer</h3>
+<h3 align="center">25 year old enthusiast who does Mobile Developer / Part time Game Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=godzago&label=Profile%20views&color=0e75b6&style=flat" alt="godzago" /> </p>
 
