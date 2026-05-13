@@ -5,7 +5,7 @@ Mobile Developer • Game Developer • Software Engineer
 </h3>
 
 <p align="center">
-I build mobile applications, digital products, internal tools, and game prototypes with a strong focus on clean user experience, practical engineering, and fast iteration.
+I build mobile applications, digital products, internal tools, real-time dashboards, and game prototypes with a strong focus on practical engineering, clean user experience, and fast iteration.
 </p>
 
 <p align="center">
@@ -30,22 +30,34 @@ I build mobile applications, digital products, internal tools, and game prototyp
 
 I'm a software developer focused on building useful, scalable, and user-centered digital products.
 
-My main work area is **mobile application development**, but I also enjoy building **game systems**, **backend-supported applications**, dashboards, automation tools, and interactive product prototypes.
+My main work area is **mobile application development**, but I also enjoy building **game systems**, **backend-supported applications**, **real-time dashboards**, **developer tools**, and **AI-assisted product prototypes**.
 
-I like turning ideas into working products — from early concept and UI flow to API integration, deployment, and iteration.
+I like turning ideas into working products — from early concept and UI flow to API integration, deployment, testing, and iteration.
 
 ```yaml
 name: Ulaş Demirdöven
 role: Mobile Developer / Software Developer
-interests:
+portfolio_focus:
   - Mobile Applications
   - Game Development
-  - Product Prototyping
-  - Backend Integrations
+  - Full-Stack Product Prototypes
+  - Real-Time Dashboards
+  - IoT & Device Data Interfaces
   - Developer Tools
-  - UI/UX Oriented Software
-currently_working_on:
-  - Mobile app projects
-  - Game prototypes
-  - Digital product ideas
-  - Personal portfolio and content projects
+  - AI-Assisted Development Workflows
+
+interests:
+  - Flutter & Mobile Development
+  - Unity & Game Systems
+  - Product Engineering
+  - Backend Integrations
+  - Automation
+  - Vibe Coding
+  - Creative Software Projects
+
+currently_focused_on:
+  - Building mobile-first products
+  - Creating game prototypes
+  - Improving full-stack development workflows
+  - Using AI tools to move faster from idea to prototype
+  - Designing practical and useful digital experiences
