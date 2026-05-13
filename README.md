@@ -184,15 +184,11 @@ You can find my projects, experiments, and personal work here:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<p align="center">
+I use GitHub to share personal projects, experiments, prototypes, and development notes.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=godzago&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=godzago&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</p>
+Most of my work focuses on mobile applications, game prototypes, backend-connected tools, real-time dashboards, and AI-assisted development workflows.
 
 ---
 
