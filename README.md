@@ -34,33 +34,6 @@ My main work area is **mobile application development**, but I also enjoy buildi
 
 I like turning ideas into working products — from early concept and UI flow to API integration, deployment, testing, and iteration.
 
-```yaml
-name: Ulaş Demirdöven
-role: Mobile Developer / Software Developer
-portfolio_focus:
-  - Mobile Applications
-  - Game Development
-  - Full-Stack Product Prototypes
-  - Real-Time Dashboards
-  - IoT & Device Data Interfaces
-  - Developer Tools
-  - AI-Assisted Development Workflows
-
-interests:
-  - Flutter & Mobile Development
-  - Unity & Game Systems
-  - Product Engineering
-  - Backend Integrations
-  - Automation
-  - Vibe Coding
-  - Creative Software Projects
-
-currently_focused_on:
-  - Building mobile-first products
-  - Creating game prototypes
-  - Improving full-stack development workflows
-  - Using AI tools to move faster from idea to prototype
-  - Designing practical and useful digital experiences
 
 🚀 What I Do
 <table> <tr> <td width="50%"> <h3>📱 Mobile Development</h3> <p> I build mobile applications with clean architecture, API integrations, authentication flows, local storage, secure storage, and user-focused interfaces. </p> </td> <td width="50%"> <h3>🎮 Game Development</h3> <p> I create Unity-based game prototypes with progression systems, economy mechanics, collection loops, interactive UI, and gameplay-focused iteration. </p> </td> </tr> <tr> <td width="50%"> <h3>🧩 Full-Stack Products</h3> <p> I develop practical MVPs, dashboards, admin panels, backend-connected applications, internal business tools, and prototype-ready digital products. </p> </td> <td width="50%"> <h3>🔌 Real-Time & IoT Systems</h3> <p> I work with MQTT, WebSocket, sensor data, live dashboards, device tracking, and real-time monitoring interfaces for operational systems. </p> </td> </tr> <tr> <td width="50%"> <h3>🤖 AI-Assisted Development</h3> <p> I use AI coding tools, vibe coding workflows, and agent-assisted development methods to explore ideas faster, generate prototypes, improve code, and speed up technical workflows. </p> </td> <td width="50%"> <h3>🎨 Product & Content Thinking</h3> <p> I care about product presentation, UI clarity, technical documentation, portfolio building, visual content, and turning complex ideas into understandable digital experiences. </p> </td> </tr> </table>
@@ -220,4 +193,33 @@ Product prototyping
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=godzago&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godzago&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=godzago&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p>
 🏆 GitHub Profile Trophy
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=godzago&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" /> </p>
-<p align="center"> <i>Building useful software, experimenting with games, and constantly improving one project at a time.</i> </p> <p align="center"> <img src="https://github.com/godzago/godzago/blob/output/github-contribution-grid-snake.svg" alt="snake gif" /> </p> ```
+<p align="center"> <i>Building useful software, experimenting with games, and constantly improving one project at a time.</i> </p> <p align="center"> <img src="https://github.com/godzago/godzago/blob/output/github-contribution-grid-snake.svg" alt="snake gif" /> </p>
+
+```yaml
+name: Ulaş Demirdöven
+role: Mobile Developer / Software Developer
+portfolio_focus:
+  - Mobile Applications
+  - Game Development
+  - Full-Stack Product Prototypes
+  - Real-Time Dashboards
+  - IoT & Device Data Interfaces
+  - Developer Tools
+  - AI-Assisted Development Workflows
+
+interests:
+  - Flutter & Mobile Development
+  - Unity & Game Systems
+  - Product Engineering
+  - Backend Integrations
+  - Automation
+  - Vibe Coding
+  - Creative Software Projects
+
+currently_focused_on:
+  - Building mobile-first products
+  - Creating game prototypes
+  - Improving full-stack development workflows
+  - Using AI tools to move faster from idea to prototype
+  - Designing practical and useful digital experiences
+
