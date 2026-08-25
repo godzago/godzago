@@ -12,7 +12,7 @@ I build mobile apps, small tools, dashboards and game prototypes. I like working
   <a href="https://www.linkedin.com/in/ulasdemirdoven/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Ulaş%20Demirdöven-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://sites.google.com/view/ulasdemirdoven/ana-sayfa?authuser=0" target="_blank">
+  <a href="https://arifulasdemirdoven.com.tr" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Website-111111?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:demirdovenulas@gmail.com">
@@ -95,7 +95,7 @@ Lately, I also use AI coding tools and vibe coding workflows to prototype faster
 You can find my projects, experiments and personal work here:
 
 <p>
-  <a href="https://sites.google.com/view/ulasdemirdoven/ana-sayfa?authuser=0" target="_blank">
+  <a href="https://arifulasdemirdoven.com.tr" target="_blank">
     <img src="https://img.shields.io/badge/My%20Website-Portfolio%20%26%20Projects-111111?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
